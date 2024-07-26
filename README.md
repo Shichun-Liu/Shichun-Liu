@@ -6,7 +6,7 @@
 
  🧑‍🎓 *BS, Computer Science* @ **Fudan University**   
   
-📫 **Mail:**  20307130111@fudan.edu.cn 
+📫 **Mail:**  liusc2020@gmail.com 
   
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Shichun-Liu&no-frame=true&column=4&margin-w=36&margin-h=12) -->
